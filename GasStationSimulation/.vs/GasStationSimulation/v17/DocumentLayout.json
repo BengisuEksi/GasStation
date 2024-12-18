@@ -1,0 +1,81 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bengi\\Desktop\\C# Projects\\GasStationSimulation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC3AD5B-D8FE-453D-8D73-D39FEAFD7E81}|GasStationSimulation\\GasStationSimulation.csproj|C:\\Users\\bengi\\Desktop\\C# Projects\\GasStationSimulation\\gasstationsimulation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6FC3AD5B-D8FE-453D-8D73-D39FEAFD7E81}|GasStationSimulation\\GasStationSimulation.csproj|solutionrelative:gasstationsimulation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FC3AD5B-D8FE-453D-8D73-D39FEAFD7E81}|GasStationSimulation\\GasStationSimulation.csproj|c:\\users\\bengi\\desktop\\c# projects\\gasstationsimulation\\gasstationsimulation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FC3AD5B-D8FE-453D-8D73-D39FEAFD7E81}|GasStationSimulation\\GasStationSimulation.csproj|solutionrelative:gasstationsimulation\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 277,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\bengi\\Desktop\\C# Projects\\GasStationSimulation\\GasStationSimulation\\Form1.cs",
+              "RelativeDocumentMoniker": "GasStationSimulation\\Form1.cs",
+              "ToolTip": "C:\\Users\\bengi\\Desktop\\C# Projects\\GasStationSimulation\\GasStationSimulation\\Form1.cs",
+              "RelativeToolTip": "GasStationSimulation\\Form1.cs",
+              "ViewState": "AgIAANUBAAAAAAAAAAAIwLoBAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T10:02:42.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\bengi\\Desktop\\C# Projects\\GasStationSimulation\\GasStationSimulation\\Form1.cs",
+              "RelativeDocumentMoniker": "GasStationSimulation\\Form1.cs",
+              "ToolTip": "C:\\Users\\bengi\\Desktop\\C# Projects\\GasStationSimulation\\GasStationSimulation\\Form1.cs [Design]",
+              "RelativeToolTip": "GasStationSimulation\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T09:33:11.102Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 723,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 723,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

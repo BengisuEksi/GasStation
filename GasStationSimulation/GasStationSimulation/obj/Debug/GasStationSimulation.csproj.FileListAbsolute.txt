@@ -1,0 +1,10 @@
+C:\Users\bengi\Desktop\C# Projects\GasStationSimulation\GasStationSimulation\bin\Debug\GasStationSimulation.exe.config
+C:\Users\bengi\Desktop\C# Projects\GasStationSimulation\GasStationSimulation\bin\Debug\GasStationSimulation.exe
+C:\Users\bengi\Desktop\C# Projects\GasStationSimulation\GasStationSimulation\bin\Debug\GasStationSimulation.pdb
+C:\Users\bengi\Desktop\C# Projects\GasStationSimulation\GasStationSimulation\obj\Debug\GasStationSimulation.csproj.AssemblyReference.cache
+C:\Users\bengi\Desktop\C# Projects\GasStationSimulation\GasStationSimulation\obj\Debug\GasStationSimulation.Form1.resources
+C:\Users\bengi\Desktop\C# Projects\GasStationSimulation\GasStationSimulation\obj\Debug\GasStationSimulation.Properties.Resources.resources
+C:\Users\bengi\Desktop\C# Projects\GasStationSimulation\GasStationSimulation\obj\Debug\GasStationSimulation.csproj.GenerateResource.cache
+C:\Users\bengi\Desktop\C# Projects\GasStationSimulation\GasStationSimulation\obj\Debug\GasStationSimulation.csproj.CoreCompileInputs.cache
+C:\Users\bengi\Desktop\C# Projects\GasStationSimulation\GasStationSimulation\obj\Debug\GasStationSimulation.exe
+C:\Users\bengi\Desktop\C# Projects\GasStationSimulation\GasStationSimulation\obj\Debug\GasStationSimulation.pdb
